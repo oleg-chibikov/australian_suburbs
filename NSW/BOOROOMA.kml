@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>BOOROOMA</name>
+            <description>2650</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

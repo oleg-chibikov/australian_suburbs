@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>SMITHS CREEK</name>
+            <description>2484</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

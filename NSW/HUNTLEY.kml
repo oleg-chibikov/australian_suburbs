@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>HUNTLEY</name>
+            <description>2800</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

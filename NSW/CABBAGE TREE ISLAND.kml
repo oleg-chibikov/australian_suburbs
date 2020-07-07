@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>CABBAGE TREE ISLAND</name>
+            <description>2430</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

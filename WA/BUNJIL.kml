@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>BUNJIL</name>
+            <description>6620</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>HILLGROVE</name>
+            <description>2350</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

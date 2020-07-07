@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>BOAT HARBOUR</name>
+            <description>2316</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

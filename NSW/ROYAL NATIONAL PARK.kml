@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>Royal National Park</name>
+            <description>2230</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

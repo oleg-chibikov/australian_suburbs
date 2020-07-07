@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>PRETTY BEACH</name>
+            <description>2257</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>MEDWAY</name>
+            <description>2577</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

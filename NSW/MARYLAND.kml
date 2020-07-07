@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>MARYLAND</name>
+            <description>2287</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

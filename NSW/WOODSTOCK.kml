@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>WOODSTOCK</name>
+            <description>2793</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

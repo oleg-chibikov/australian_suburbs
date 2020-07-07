@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>Blue Mountains National Park</name>
+            <description>2780</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>THE ROCKS</name>
+            <description>2000</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

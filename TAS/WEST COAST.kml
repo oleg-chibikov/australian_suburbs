@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>West Coast</name>
+            <description>7321</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>SPRINGFIELD</name>
+            <description>2250</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

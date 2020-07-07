@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>Punchbowl</name>
+            <description>2196</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

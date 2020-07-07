@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>NANIMA</name>
+            <description>2618</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

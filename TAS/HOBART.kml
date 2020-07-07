@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>HOBART</name>
+            <description>7000</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

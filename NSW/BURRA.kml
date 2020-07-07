@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>BURRA</name>
+            <description>2620</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

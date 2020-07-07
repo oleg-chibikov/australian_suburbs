@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>BONVILLE</name>
+            <description>2450</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

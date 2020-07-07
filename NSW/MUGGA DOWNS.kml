@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>Mugga Downs</name>
+            <description>2830</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>Botany Bay</name>
+            <description>2019</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

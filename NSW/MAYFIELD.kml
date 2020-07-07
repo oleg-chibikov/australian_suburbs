@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>MAYFIELD</name>
+            <description>2304</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

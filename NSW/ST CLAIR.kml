@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>ST CLAIR</name>
+            <description>2759</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

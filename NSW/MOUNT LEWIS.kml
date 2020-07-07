@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>MOUNT LEWIS</name>
+            <description>2190</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

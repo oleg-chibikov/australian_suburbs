@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>ELDERSLIE</name>
+            <description>2570</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

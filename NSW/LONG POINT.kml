@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>LONG POINT</name>
+            <description>2330</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

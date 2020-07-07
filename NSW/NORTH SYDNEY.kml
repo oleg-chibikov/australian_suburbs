@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>NORTH SYDNEY</name>
+            <description>2060</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

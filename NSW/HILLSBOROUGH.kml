@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>HILLSBOROUGH</name>
+            <description>2290</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

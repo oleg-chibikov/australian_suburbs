@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>BOURNDA</name>
+            <description>2548</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>

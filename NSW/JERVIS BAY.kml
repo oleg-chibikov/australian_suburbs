@@ -3,6 +3,7 @@
     <Document>
         <Placemark>
             <name>JERVIS BAY</name>
+            <description>2540</description>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>
